@@ -1,5 +1,8 @@
 # 215-Project2-Employee
 
+Programming project #2
+
+
 CIS 215  Internet Programming Using Java                  Spring 2017
 Programming Assignment 2
 
